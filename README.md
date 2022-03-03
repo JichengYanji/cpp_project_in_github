@@ -1,3 +1,5 @@
+[![CMake_x64](https://github.com/JichengYanji/cpp_project_in_github/actions/workflows/cmake_x64.yml/badge.svg)](https://github.com/JichengYanji/cpp_project_in_github/actions/workflows/cmake_x64.yml)
+
 # Awesome C++ Project in GitHub
 - Create a simple calculator
 ## How to Run
