@@ -63,6 +63,7 @@ jobs:
     #    uses a compiled language
 
     - run: |
+       git submodule update --init --recursive --recommend-shallow --depth 1
        mkdir -p build
        cd build
        cmake .. -DBUILD_TESTS=OFF
