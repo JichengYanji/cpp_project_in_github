@@ -14,7 +14,6 @@
        ==============================================================================*/
 /*** Include ***/
 /* for general */
-
 #include <cstdint>
 #include <cstdio>
 #include <iostream>
@@ -31,7 +30,8 @@
 /*** Function ***/
 int main(int argc, char* argv[])
 {
-        printf("Hello world\n");
-
-            return 0;
+    printf("Hello world\n");
+    ar buffer[1];
+    buffer[3] = 1;
+    return 0;
 }
